@@ -1,5 +1,5 @@
 {
-  "name": "@pab78430/sass-lint-webpack-plugin",
+  "name": "@wildcookie007/sass-lint-webpack-plugin",
   "version": "1.0.5",
   "description": "sass-lint plugin for webpack",
   "main": "index.js",
@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pabrisson/sass-lint-webpack-plugin.git"
+    "url": "git+https://github.com/wildcookie007/sass-lint-webpack-plugin.git"
   },
   "author": "Drew Machat <drew@alleyinteractive.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pabrisson/sass-lint-webpack-plugin/issues"
+    "url": "https://github.com/wildcookie007/sass-lint-webpack-plugin/issues"
   },
-  "homepage": "https://github.com/Pabrisson/sass-lint-webpack-plugin#readme",
+  "homepage": "https://github.com/wildcookie007/sass-lint-webpack-plugin#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "loader-utils": "^1.1.0",
